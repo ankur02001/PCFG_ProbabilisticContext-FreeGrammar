@@ -1,0 +1,324 @@
+1	S2
+1	S2	_Adj
+1	S2	_Adv
+1	S2	_Conj
+1	S2	_DO
+1	S2	_Det
+1	S2	_Misc
+1	S2	_Modal
+1	S2	_NOT
+1	S2	_Noun
+1	S2	_Num
+1	S2	_Prep
+1	S2	_Proper
+1	S2	_ProperT
+1	S2	_Punc
+1	S2	_TO
+1	S2	_VerbI
+1	S2	_VerbT
+1	_Adj	Adj
+1	_Adj	Adj _Adj
+1	_Adj	Adj _Adv
+1	_Adj	Adj _Conj
+1	_Adj	Adj _DO
+1	_Adj	Adj _Det
+1	_Adj	Adj _Misc
+1	_Adj	Adj _Modal
+1	_Adj	Adj _NOT
+1	_Adj	Adj _Noun
+1	_Adj	Adj _Num
+1	_Adj	Adj _Prep
+1	_Adj	Adj _Proper
+1	_Adj	Adj _ProperT
+1	_Adj	Adj _Punc
+1	_Adj	Adj _TO
+1	_Adj	Adj _VerbI
+1	_Adj	Adj _VerbT
+1	_Adv	Adv
+1	_Adv	Adv _Adj
+1	_Adv	Adv _Adv
+1	_Adv	Adv _Conj
+1	_Adv	Adv _DO
+1	_Adv	Adv _Det
+1	_Adv	Adv _Misc
+1	_Adv	Adv _Modal
+1	_Adv	Adv _NOT
+1	_Adv	Adv _Noun
+1	_Adv	Adv _Num
+1	_Adv	Adv _Prep
+1	_Adv	Adv _Proper
+1	_Adv	Adv _ProperT
+1	_Adv	Adv _Punc
+1	_Adv	Adv _TO
+1	_Adv	Adv _VerbI
+1	_Adv	Adv _VerbT
+1	_Conj	Conj
+1	_Conj	Conj _Adj
+1	_Conj	Conj _Adv
+1	_Conj	Conj _Conj
+1	_Conj	Conj _DO
+1	_Conj	Conj _Det
+1	_Conj	Conj _Misc
+1	_Conj	Conj _Modal
+1	_Conj	Conj _NOT
+1	_Conj	Conj _Noun
+1	_Conj	Conj _Num
+1	_Conj	Conj _Prep
+1	_Conj	Conj _Proper
+1	_Conj	Conj _ProperT
+1	_Conj	Conj _Punc
+1	_Conj	Conj _TO
+1	_Conj	Conj _VerbI
+1	_Conj	Conj _VerbT
+1	_DO	DO
+1	_DO	DO _Adj
+1	_DO	DO _Adv
+1	_DO	DO _Conj
+1	_DO	DO _DO
+1	_DO	DO _Det
+1	_DO	DO _Misc
+1	_DO	DO _Modal
+1	_DO	DO _NOT
+1	_DO	DO _Noun
+1	_DO	DO _Num
+1	_DO	DO _Prep
+1	_DO	DO _Proper
+1	_DO	DO _ProperT
+1	_DO	DO _Punc
+1	_DO	DO _TO
+1	_DO	DO _VerbI
+1	_DO	DO _VerbT
+1	_Det	Det
+1	_Det	Det _Adj
+1	_Det	Det _Adv
+1	_Det	Det _Conj
+1	_Det	Det _DO
+1	_Det	Det _Det
+1	_Det	Det _Misc
+1	_Det	Det _Modal
+1	_Det	Det _NOT
+1	_Det	Det _Noun
+1	_Det	Det _Num
+1	_Det	Det _Prep
+1	_Det	Det _Proper
+1	_Det	Det _ProperT
+1	_Det	Det _Punc
+1	_Det	Det _TO
+1	_Det	Det _VerbI
+1	_Det	Det _VerbT
+1	_Misc	Misc
+1	_Misc	Misc _Adj
+1	_Misc	Misc _Adv
+1	_Misc	Misc _Conj
+1	_Misc	Misc _DO
+1	_Misc	Misc _Det
+1	_Misc	Misc _Misc
+1	_Misc	Misc _Modal
+1	_Misc	Misc _NOT
+1	_Misc	Misc _Noun
+1	_Misc	Misc _Num
+1	_Misc	Misc _Prep
+1	_Misc	Misc _Proper
+1	_Misc	Misc _ProperT
+1	_Misc	Misc _Punc
+1	_Misc	Misc _TO
+1	_Misc	Misc _VerbI
+1	_Misc	Misc _VerbT
+1	_Modal	Modal
+1	_Modal	Modal _Adj
+1	_Modal	Modal _Adv
+1	_Modal	Modal _Conj
+1	_Modal	Modal _DO
+1	_Modal	Modal _Det
+1	_Modal	Modal _Misc
+1	_Modal	Modal _Modal
+1	_Modal	Modal _NOT
+1	_Modal	Modal _Noun
+1	_Modal	Modal _Num
+1	_Modal	Modal _Prep
+1	_Modal	Modal _Proper
+1	_Modal	Modal _ProperT
+1	_Modal	Modal _Punc
+1	_Modal	Modal _TO
+1	_Modal	Modal _VerbI
+1	_Modal	Modal _VerbT
+1	_NOT	NOT
+1	_NOT	NOT _Adj
+1	_NOT	NOT _Adv
+1	_NOT	NOT _Conj
+1	_NOT	NOT _DO
+1	_NOT	NOT _Det
+1	_NOT	NOT _Misc
+1	_NOT	NOT _Modal
+1	_NOT	NOT _NOT
+1	_NOT	NOT _Noun
+1	_NOT	NOT _Num
+1	_NOT	NOT _Prep
+1	_NOT	NOT _Proper
+1	_NOT	NOT _ProperT
+1	_NOT	NOT _Punc
+1	_NOT	NOT _TO
+1	_NOT	NOT _VerbI
+1	_NOT	NOT _VerbT
+1	_Noun	Noun
+1	_Noun	Noun _Adj
+1	_Noun	Noun _Adv
+1	_Noun	Noun _Conj
+1	_Noun	Noun _DO
+1	_Noun	Noun _Det
+1	_Noun	Noun _Misc
+1	_Noun	Noun _Modal
+1	_Noun	Noun _NOT
+1	_Noun	Noun _Noun
+1	_Noun	Noun _Num
+1	_Noun	Noun _Prep
+1	_Noun	Noun _Proper
+1	_Noun	Noun _ProperT
+1	_Noun	Noun _Punc
+1	_Noun	Noun _TO
+1	_Noun	Noun _VerbI
+1	_Noun	Noun _VerbT
+1	_Num	Num
+1	_Num	Num _Adj
+1	_Num	Num _Adv
+1	_Num	Num _Conj
+1	_Num	Num _DO
+1	_Num	Num _Det
+1	_Num	Num _Misc
+1	_Num	Num _Modal
+1	_Num	Num _NOT
+1	_Num	Num _Noun
+1	_Num	Num _Num
+1	_Num	Num _Prep
+1	_Num	Num _Proper
+1	_Num	Num _ProperT
+1	_Num	Num _Punc
+1	_Num	Num _TO
+1	_Num	Num _VerbI
+1	_Num	Num _VerbT
+1	_Prep	Prep
+1	_Prep	Prep _Adj
+1	_Prep	Prep _Adv
+1	_Prep	Prep _Conj
+1	_Prep	Prep _DO
+1	_Prep	Prep _Det
+1	_Prep	Prep _Misc
+1	_Prep	Prep _Modal
+1	_Prep	Prep _NOT
+1	_Prep	Prep _Noun
+1	_Prep	Prep _Num
+1	_Prep	Prep _Prep
+1	_Prep	Prep _Proper
+1	_Prep	Prep _ProperT
+1	_Prep	Prep _Punc
+1	_Prep	Prep _TO
+1	_Prep	Prep _VerbI
+1	_Prep	Prep _VerbT
+1	_Proper	Proper
+1	_Proper	Proper _Adj
+1	_Proper	Proper _Adv
+1	_Proper	Proper _Conj
+1	_Proper	Proper _DO
+1	_Proper	Proper _Det
+1	_Proper	Proper _Misc
+1	_Proper	Proper _Modal
+1	_Proper	Proper _NOT
+1	_Proper	Proper _Noun
+1	_Proper	Proper _Num
+1	_Proper	Proper _Prep
+1	_Proper	Proper _Proper
+1	_Proper	Proper _ProperT
+1	_Proper	Proper _Punc
+1	_Proper	Proper _TO
+1	_Proper	Proper _VerbI
+1	_Proper	Proper _VerbT
+1	_ProperT	ProperT
+1	_ProperT	ProperT _Adj
+1	_ProperT	ProperT _Adv
+1	_ProperT	ProperT _Conj
+1	_ProperT	ProperT _DO
+1	_ProperT	ProperT _Det
+1	_ProperT	ProperT _Misc
+1	_ProperT	ProperT _Modal
+1	_ProperT	ProperT _NOT
+1	_ProperT	ProperT _Noun
+1	_ProperT	ProperT _Num
+1	_ProperT	ProperT _Prep
+1	_ProperT	ProperT _Proper
+1	_ProperT	ProperT _ProperT
+1	_ProperT	ProperT _Punc
+1	_ProperT	ProperT _TO
+1	_ProperT	ProperT _VerbI
+1	_ProperT	ProperT _VerbT
+1	_Punc	Punc
+1	_Punc	Punc _Adj
+1	_Punc	Punc _Adv
+1	_Punc	Punc _Conj
+1	_Punc	Punc _DO
+1	_Punc	Punc _Det
+1	_Punc	Punc _Misc
+1	_Punc	Punc _Modal
+1	_Punc	Punc _NOT
+1	_Punc	Punc _Noun
+1	_Punc	Punc _Num
+1	_Punc	Punc _Prep
+1	_Punc	Punc _Proper
+1	_Punc	Punc _ProperT
+1	_Punc	Punc _Punc
+1	_Punc	Punc _TO
+1	_Punc	Punc _VerbI
+1	_Punc	Punc _VerbT
+1	_TO	TO
+1	_TO	TO _Adj
+1	_TO	TO _Adv
+1	_TO	TO _Conj
+1	_TO	TO _DO
+1	_TO	TO _Det
+1	_TO	TO _Misc
+1	_TO	TO _Modal
+1	_TO	TO _NOT
+1	_TO	TO _Noun
+1	_TO	TO _Num
+1	_TO	TO _Prep
+1	_TO	TO _Proper
+1	_TO	TO _ProperT
+1	_TO	TO _Punc
+1	_TO	TO _TO
+1	_TO	TO _VerbI
+1	_TO	TO _VerbT
+1	_VerbI	VerbI
+1	_VerbI	VerbI _Adj
+1	_VerbI	VerbI _Adv
+1	_VerbI	VerbI _Conj
+1	_VerbI	VerbI _DO
+1	_VerbI	VerbI _Det
+1	_VerbI	VerbI _Misc
+1	_VerbI	VerbI _Modal
+1	_VerbI	VerbI _NOT
+1	_VerbI	VerbI _Noun
+1	_VerbI	VerbI _Num
+1	_VerbI	VerbI _Prep
+1	_VerbI	VerbI _Proper
+1	_VerbI	VerbI _ProperT
+1	_VerbI	VerbI _Punc
+1	_VerbI	VerbI _TO
+1	_VerbI	VerbI _VerbI
+1	_VerbI	VerbI _VerbT
+1	_VerbT	VerbT
+1	_VerbT	VerbT _Adj
+1	_VerbT	VerbT _Adv
+1	_VerbT	VerbT _Conj
+1	_VerbT	VerbT _DO
+1	_VerbT	VerbT _Det
+1	_VerbT	VerbT _Misc
+1	_VerbT	VerbT _Modal
+1	_VerbT	VerbT _NOT
+1	_VerbT	VerbT _Noun
+1	_VerbT	VerbT _Num
+1	_VerbT	VerbT _Prep
+1	_VerbT	VerbT _Proper
+1	_VerbT	VerbT _ProperT
+1	_VerbT	VerbT _Punc
+1	_VerbT	VerbT _TO
+1	_VerbT	VerbT _VerbI
+1	_VerbT	VerbT _VerbT
